@@ -19,3 +19,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=izzetmustafaoglu&show_icons=true&locale=en" alt="izzetmustafaoglu" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=izzetmustafaoglu&" alt="izzetmustafaoglu" /></p>
+
+
+![snake gif](https://github.com/IzzetMustafaoglu/IzzetMustafaoglu/blob/output/github-contribution-grid-snake.gif)
